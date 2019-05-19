@@ -1,0 +1,4 @@
+runtime: ruby
+env: flex
+service: gae-sinatra-template
+entrypoint: bundle exec ruby app.rb
